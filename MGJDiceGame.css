@@ -1,0 +1,20 @@
+p{
+	background-color: darkred;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h1{
+	background-color: black;
+	color: white;
+}
+
+ol{
+	background-color: darkgreen;
+	font-weight: bold;
+	font-style: italic;
+	color: white;
+}
+body{
+	background-color: purple;
+}

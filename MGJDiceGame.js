@@ -41,7 +41,7 @@ function apartmentOne(){
 
 function hallWay(){
 	var outcomes1 = ["as you press 1 you realize the elevator starts to rumble, before you realize it your on the ceiling and the elevator crashes into the floor with poles and springs blending everything inside to a human metal smoothie: DEAD",
-	"you press 1 and the elevator gives in to gravity's pull right before it reaches level 1, the elevator gets cushened ny a cought cable and after going up and down a couple times you puke and crawl through the halfway opened door onto level 1: MOVE ON",
+	"you press 1 and the elevator gives in to gravity's pull right before it reaches level 1, the elevator gets ebounded by a cought cable and after going up and down a couple times you puke and crawl through the halfway opened door onto level 1: MOVE ON",
 	"you press one and the elevator gets stuck at level 32 you press 1 again and it seems to glitch but closes and you make your way down to the first floor: MOVE ON",
 	"you press one and the elevator gets stuck at level 32 zombies rush in and leave on traces of your clothing behind: DEAD"];
 	var outcomes2 = ["Taking the elevator might've been one of your greatest decisions, the whole way down it was nice and quiet no zombies: MOVE ON",
